@@ -1,0 +1,475 @@
+{
+    "herb": "ChaiHu",
+    "names": {
+        "pinyin": "chai hu",
+        "hanzi": "柴胡",
+        "latin": "radix bupleuri",
+        "pharmaceuticalLatin": "Radix Bupleuri",
+        "commonEnglish": [
+            "Bupleurum Root",
+            "Hare's Ear Root",
+            "Thorowax Root",
+            "Red Thorowax Root",
+            "Asian Buplever Root"
+        ]
+    },
+    "category": "Herbs that Release the Exterior",
+    "properties": {
+        "taste": {
+            "primary": [
+                "Bitter",
+                "Acrid"
+            ],
+            "secondary": [
+                "Astringent"
+            ]
+        },
+        "temperature": {
+            "primary": [
+                "Cool"
+            ],
+            "secondary": [
+                "Neutral"
+            ]
+        },
+        "channels": {
+            "primary": [
+                "Gallbladder",
+                "Liver",
+                "Pericardium",
+                "San Jiao"
+            ],
+            "secondary": []
+        },
+        "dose": {
+            "general": "3-12g",
+            "tincture": "1-3.5ml",
+            "other": []
+        }
+    },
+    "actions": {
+        "sets": [
+            {
+                "action": {
+                    "primary": "Resolves Shao Yang disorders and reduces fever",
+                    "annotations": [
+                        "harmonizes the Exterior and Interior"
+                    ]
+                },
+                "indications": [
+                    "Shao Yang Stage with alternating chills and fever, a bitter taste,dizziness, tinnitus, flank pain, irritability, vomiting and a stifling sensation in the chest",
+                    "Deficiency Heat (auxiliary)",
+                    "Gallbladder Fire"
+                ]
+            },
+            {
+                "action": {
+                    "primary": "Spreads Liver Qi and relieves Stagnation"
+                },
+                "indications": [
+                    "Liver Qi Stagnation with dizziness, vertigo, chest and flank pain, emotional instability and menstrual problems",
+                    "Disharmony between the Liver and Spleen with epigastric and flank pain, a stifling sensation in the chest, abdominal bloating, nausea and indigestion"
+                ]
+            },
+            {
+                "action": {
+                    "primary": "Raises Yang Qi",
+                    "annotations": [
+                        "specifically the Clear Qi of the Stomach and Gallbladder"
+                    ]
+                },
+                "indications": [
+                    "Spleen and Stomach Yang Deficiency, Qi collapse (prolapse) with hemorrhoids, vaginal discharge, bleeding or exhaustion"
+                ]
+            },
+            {
+                "action": {
+                    "primary": "Disperses Wind-Heat and resolves Phlegm and congestion"
+                },
+                "indications": [
+                    "Wind-Heat"
+                ]
+            }
+        ]
+    },
+    "contra": {
+        "contraindications": [
+            "Contraindicated for those with Yin Deficiency cough.",
+            "Contraindicated for those with Yin and/or Fluid Deficiency (severe Yin Damage).",
+            "Contraindicated for those with Liver Fire or Yang Rising ascending to the head.",
+            "This herb may cause nausea or vomiting. To counteract, use smaller dosage.",
+            "Do not use alone continuously."
+        ],
+        "incompatibilities": [],
+        "interactions": []
+    },
+    "combinations": {
+        "sets": [
+            {
+                "relatedHerbs": [
+                    "HuangQin"
+                ],
+                "useCases": [
+                    "Heat in the Shao Yang.",
+                    "Restores the normal functioning of the Liver and Gallbladder.",
+                    "Heat in the Womb with fever, chills and delirium."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin",
+                    "ZhiBanXia"
+                ],
+                "useCases": [
+                    "Shao Yang disorders with alternating chills and fever and a sensation of fullness in the hypochondria and chest."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin",
+                    "ZhiBanXia",
+                    "GuiZhi",
+                    "GanJiang"
+                ],
+                "useCases": [
+                    "Shao Yang disorders with Cold predominating."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin",
+                    "ZhiBanXia",
+                    "ShiGao",
+                    "ZhiMu"
+                ],
+                "useCases": [
+                    "Shao Yang disorders with Heat predominating."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin",
+                    "ZhiBanXia",
+                    "ZhiShi",
+                    "ChiShao"
+                ],
+                "useCases": [
+                    "Shao Yang disorder that is primarily Excess."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin",
+                    "ZhiBanXia",
+                    "RenShen",
+                    "GanCao"
+                ],
+                "useCases": [
+                    "Weak patients."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin",
+                    "ZhiBanXia",
+                    "DangShen"
+                ],
+                "useCases": [
+                    "Shao Yang Heat."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin",
+                    "ChangShan",
+                    "QingHao",
+                    "BingLang",
+                    "CaoGuo"
+                ],
+                "useCases": [
+                    "Malaria."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "QinJiao",
+                    "DiGuPi",
+                    "QingHao"
+                ],
+                "useCases": [
+                    "Deficiency consumption with steaming bones and tidal fever."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "BaiShao"
+                ],
+                "useCases": [
+                    "Liver Blood Deficiency with Liver Qi Stagnation.",
+                    "Vertigo, dizziness and thoracic and costal pain due to Liver Qi Stagnation."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "BaiShao",
+                    "DangGui",
+                    "ChuanXiong"
+                ],
+                "useCases": [
+                    "Harmonizes the Blood for irregular menstruation."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "BaiShao",
+                    "DangShen",
+                    "BaiZhu"
+                ],
+                "useCases": [
+                    "Fortifies Qi."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "QianHu"
+                ],
+                "useCases": [
+                    "Wind-Heat constraining the Lungs leading to a stifling sensation in the chest and a productive cough."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "BoHe"
+                ],
+                "useCases": [
+                    "Emotional depression, a stifling sensation in the chest and irregular menstruation due to Liver Blood Stagnation and Deficiency."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ZhiKe(Qiao)"
+                ],
+                "useCases": [
+                    "Stifling sensation in the chest, abdominal pain, poor appetite and irregular bowel movements."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "LongDanCao",
+                    "ZhiZi"
+                ],
+                "useCases": [
+                    "Excess Heat in the Liver and/or Gallbladder channels."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "QingPi"
+                ],
+                "useCases": [
+                    "Intercostal pain due to Qi obstruction in the Liver channel."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GanCao"
+                ],
+                "useCases": [
+                    "Hepatitis and upper right quadrant pain.",
+                    "Wind-Heat fever."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQi"
+                ],
+                "useCases": [
+                    "Raises the Clear Yang due to abnormal descent of Qi."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "QiangHuo",
+                    "FangFeng"
+                ],
+                "useCases": [
+                    "Spleen Deficiency Dampness."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "XiangFu",
+                    "ZhiKe(Qiao)",
+                    "QingPi"
+                ],
+                "useCases": [
+                    "Liver Qi Stagnation."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "RenShen",
+                    "HuangQin",
+                    "BaiZhu"
+                ],
+                "useCases": [
+                    "Central Qi Sinking."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQi",
+                    "ShengMa",
+                    "RenShen"
+                ],
+                "useCases": [
+                    "Central Qi Sinking."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GeGen"
+                ],
+                "useCases": [
+                    "Wind-Heat with neck and shoulder pain."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "XiangFu",
+                    "ChuanXiong",
+                    "ZhiKe(Qiao)"
+                ],
+                "useCases": [
+                    "Liver Qi Stagnation."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ChangShan"
+                ],
+                "useCases": [
+                    "Malarial disorders."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin",
+                    "BaiShao",
+                    "ZhiZi",
+                    "DaHuang"
+                ],
+                "useCases": [
+                    "Combined Shao Yang and Yang Ming syndromes."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin",
+                    "GeGen"
+                ],
+                "useCases": [
+                    "Shao Yang Stage with fever."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "BaiShao",
+                    "DangGui",
+                    "BoHe"
+                ],
+                "useCases": [
+                    "Liver Qi Stagnation with stress and emotional distress."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "BaiShao",
+                    "ChuanXiong",
+                    "ZhiKe(Qiao)"
+                ],
+                "useCases": [
+                    "Liver Qi Stagnation with hypochondriac fullness and pain."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "XiangFu",
+                    "BaiShao",
+                    "ZhiShi"
+                ],
+                "useCases": [
+                    "Liver Qi Stagnation with cold extremities."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ChuanXiong",
+                    "XiangFu",
+                    "BaiShao"
+                ],
+                "useCases": [
+                    "Migraine headache due to Shao Yang Fire."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin",
+                    "ZhiZi",
+                    "FangFeng",
+                    "JueMingZi"
+                ],
+                "useCases": [
+                    "Eye disorders due to Liver Fire Rising with redness, swelling and pain."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "BaiShao",
+                    "DangGui",
+                    "XiangFu",
+                    "MuDanPi"
+                ],
+                "useCases": [
+                    "Irregular menstruation with pain and cramps."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "YinChen(Hao)",
+                    "DaHuang",
+                    "ZhiZi"
+                ],
+                "useCases": [
+                    "Jaundice due Damp-Heat in the Liver and Gallbladder."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ShengMa"
+                ],
+                "useCases": [
+                    "Viral hepatitis, cough with difficult to expectorate Phlegm and chronic bronchitis."
+                ]
+            }
+        ]
+    },
+    "notes": [
+        "Northern Bupleurum Bei Chai Hu is harder and more effective in resolving the Shao Yang and reducing Heat. It is used to treat External Wind-Heat.",
+        "Southern Bupleurum Nan Chai Hu is relatively thin and soft and is more effective in spreading Liver Qi and relieving Stagnation.",
+        "This herb treats Heat from Deficiency, gynecological problems, boils, furuncles and eye and ear diseases.",
+        "It is one of the most important of the Cold herbs. It relaxes Liver tension, calms Wind, cools Fire, and is thus used to treat convulsions, muscle tension, lumps, tumors, skin ailments, digestive disturbances, Lung Heat, menstrual irregularity and Excess bleeding due to Heat. It may release pent-up anger and Heat. Rx. Paeoniae Alba #{BaiShao} Bai Shao moderates this effect.",
+        "Bupleurum is the primary herb in harmonization therapies.",
+        "It immediately stimulates the immune system.",
+        "It is good for all types of toxicosis, especially Liver/Gallbladder infections.",
+        "It is good for allergies.",
+        "Large doses have been used to treat malaria and blackwater fever.",
+        "Spring Bupleurum Chun Chai Hu is dispersing and draining and is good for spreading Liver Qi.",
+        "Dry-fried Bupleurum Chao Chai Hu is less cool but is better able to lift clear Yang.",
+        "Vinegar Bupleurum Cu Cha Hu has an enhanced ability to soothe the Liver, harmonize the Blood and stop pain.",
+        "For topical application, use raw.",
+        "For Internal conditions, roast in sake.",
+        "For Phlegm and Heat, roast in honey water.",
+        "For Liver and Gall Bladder Fire, roast in pork gall bladder water."
+    ]
+}

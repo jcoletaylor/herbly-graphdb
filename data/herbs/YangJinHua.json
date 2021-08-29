@@ -1,0 +1,79 @@
+{
+    "herb": "YangJinHua",
+    "names": {
+        "pinyin": "yang jin hua",
+        "hanzi": "洋金花",
+        "latin": "flos daturae alba",
+        "pharmaceuticalLatin": "Flos Daturae Alba",
+        "commonEnglish": [
+            "Hindu Datura Flower"
+        ]
+    },
+    "category": "Herbs that Resolve Phlegm",
+    "properties": {
+        "taste": {
+            "primary": [
+                "Acrid"
+            ],
+            "secondary": []
+        },
+        "temperature": {
+            "primary": [
+                "Warm",
+                "Toxic"
+            ],
+            "secondary": []
+        },
+        "channels": {
+            "primary": [
+                "Lung",
+                "Liver"
+            ],
+            "secondary": []
+        },
+        "dose": {
+            "general": "0.3-0.45g",
+            "other": []
+        }
+    },
+    "actions": {
+        "sets": [
+            {
+                "action": {
+                    "primary": "Dispels Wind-Damp, relieves cough and dyspnea, relieves spasms and stops pain"
+                },
+                "indications": [
+                    "General pain, beriberi due to Cold-Dampness, asthmatic dyspnea, rheumatic pain topically"
+                ]
+            }
+        ]
+    },
+    "contra": {
+        "contraindications": [
+            "This herb is toxic, so its dosage should be controlled. It is contraindicated for Wind-Cold spasms and Phlegm-Heat cough and dyspnea, glaucoma, hypertension and tachycardia.",
+            "Use caution during pregnancy or with weak people."
+        ],
+        "incompatibilities": [],
+        "interactions": []
+    },
+    "combinations": {
+        "sets": [
+            {
+                "relatedHerbs": [
+                    "ZhiChuanWu",
+                    "ZhiCaoWu",
+                    "CaoWu",
+                    "JiangHuang"
+                ],
+                "useCases": [
+                    "As a narcotic."
+                ]
+            }
+        ]
+    },
+    "notes": [
+        "With strong actions of relieving cough and dyspnea, it is indicated for cough and dyspnea without Phlegm or less Phlegm. It is often indicated when other herbs do not yield a good result. It is suitable to treat cold cough and dyspnea. It can be used singly in powder, or its dry flower can be sliced and rolled for smoking, or combined with other herbs.",
+        "It has a good action of alleviating pain for most places in the body. It can be singly indicated for various kinds of pain, such as chest and abdomen pain, Wind-Damp arthralgia pain and traumatic injury pain. Large doses of this herb have an anesthetic action, so it was used as a narcotic in ancient times.",
+        "It is indicated for epilepsy and chronic infantile convulsions with its action of stopping spasms. It is combined with Wind-Extinguishing, spasm-stopping herbs and Phlegm-Resolving herbs, such as #{QuanXie} Quan Xie, #{TianMa} Tian Ma and #{ZhiTianNanXing} Zhi #{ZhiTianNanXing} Tian Nan Xing and so on."
+    ]
+}

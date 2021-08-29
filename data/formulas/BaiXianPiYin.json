@@ -1,0 +1,288 @@
+{
+    "formula": "BaiXianPiYin",
+    "names": {
+        "pinyin": "bai xian pi yin",
+        "hanzi": "白鲜皮饮",
+        "english": "dictamnus drink",
+        "commonEnglish": "Dictamnus Drink",
+        "aka": [
+            ""
+        ]
+    },
+    "herbs": [
+        {
+            "herb": "BaiXianPi",
+            "dosage": "15g",
+            "actions": [
+                "Clears Heat, resolves Fire-toxicity, expels Wind, dries Dampness, clears Damp-Heat and stops itching.",
+                "With Sheng Di Huang, Dang Gui and Chan Tui, for rashes due to Blood Deficiency."
+            ]
+        },
+        {
+            "herb": "ShengDiHuang",
+            "dosage": "15g",
+            "actions": [
+                "Clears Heat, cools the Blood and nourishes Yin."
+            ]
+        },
+        {
+            "herb": "ChiShao",
+            "dosage": "15g",
+            "actions": [
+                "Invigorates the Blood, dispels Blood Stasis, relieves pain, clears Heat and cools the Blood."
+            ]
+        },
+        {
+            "herb": "DanShen",
+            "dosage": "15g",
+            "actions": [
+                "Invigorates the Blood, dispels Blood Stasis, clears Heat, soothes irritability and cools and nourishes the Blood."
+            ]
+        },
+        {
+            "herb": "HuangQin",
+            "dosage": "15g",
+            "actions": [
+                "Clears Heat, dries Dampness, drains Fire and detoxifies."
+            ]
+        },
+        {
+            "herb": "ChanTui",
+            "dosage": "9g",
+            "actions": [
+                "Disperses Wind, clears Heat, vents rashes and relieves itching."
+            ]
+        },
+        {
+            "herb": "DangGui",
+            "dosage": "12g",
+            "actions": [
+                "Tonifies, invigorates and harmonizes the Blood, reduces swelling, expels pus, generates flesh and alleviates pain.",
+                "With Jin Yin Hua, reduces obstruction and toxicity for swollen, painful sores and necrosis of surrounding tissue."
+            ]
+        },
+        {
+            "herb": "CangZhu",
+            "dosage": "9g",
+            "actions": [
+                "Strongly dries Dampness, tonifies the Spleen, induces sweating and expels Wind-Dampness."
+            ]
+        },
+        {
+            "herb": "JingJie",
+            "dosage": "9g",
+            "actions": [
+                "Releases the Exterior, expels Wind, vents rashes and relieves itching.",
+                "With Dang Gui, for itching and tremors of the hands and feet from Wind due to Blood Deficiency."
+            ]
+        },
+        {
+            "herb": "FangFeng",
+            "dosage": "9g",
+            "actions": [
+                "Releases the Exterior and expels External Wind.",
+                "With Jing Jie, expels Wind and stops itching for pruritic rashes.",
+                "With Jing Jie and Chan Tui, for dermatological disorders with rash, irritability and itching.",
+                ""
+            ]
+        },
+        {
+            "herb": "JinYinHua",
+            "dosage": "15g",
+            "actions": [
+                "Clears Heat, resolves Fire toxicity and vents and disperses External Wind-Heat."
+            ]
+        },
+        {
+            "herb": "ZiCao",
+            "dosage": "9g",
+            "actions": [
+                "Clears Heat, cools the Blood, invigorates Blood circulation, relieves Fire toxins and encourages rashes."
+            ]
+        }
+    ],
+    "actions": [
+        "Nourishes the Blood",
+        "Invigorates the Blood",
+        "Dispels Wind",
+        "Stops itching"
+    ],
+    "syndromes": [
+        "Yin and Blood Deficiency"
+    ],
+    "manifestations": {
+        "symptoms": [
+            "Clusters of red, flat pimples",
+            "Severe itching"
+        ],
+        "tongue": "Pale",
+        "tongueCoat": "Yellowish or Thin and white",
+        "pulse": "Floating and rapid"
+    },
+    "conditions": [
+        {
+            "condition": "Neurodermatitis",
+            "name": "Neurodermatitis"
+        },
+        {
+            "name": "Pityriasis rosae"
+        },
+        {
+            "condition": "Urticaria",
+            "name": "Urticaria"
+        },
+        {
+            "condition": "SeborrheicDermatitis",
+            "name": "Seborrheic dermatitis"
+        }
+    ],
+    "contra": {
+        "contraindications": [
+            ""
+        ],
+        "interactions": [
+            ""
+        ]
+    },
+    "notes": [
+        ""
+    ],
+    "modifications": [
+        {
+            "purpose": "neurodermatitis",
+            "modifications": [
+                {
+                    "herb": "DangGui",
+                    "modification": "- Rx. Angelicae Sinensis"
+                },
+                {
+                    "herb": "CangZhu",
+                    "modification": "- Rz. Atractylodis"
+                },
+                {
+                    "herb": "JingJie",
+                    "modification": "- Hb. Schizonepetae"
+                },
+                {
+                    "herb": "DiFuZi",
+                    "modification": "+ 30g Fr. Kochiae"
+                },
+                {
+                    "herb": "BaiJiLi",
+                    "modification": "+ 10g Fr. Tribuli"
+                },
+                {
+                    "herb": "GanCao",
+                    "modification": "+ 9g Rx. Glycyrrhizae"
+                }
+            ]
+        },
+        {
+            "purpose": "neurodermatitis with intense itching",
+            "modifications": [
+                {
+                    "herb": "DangGui",
+                    "modification": "- Rx. Angelicae Sinensis"
+                },
+                {
+                    "herb": "CangZhu",
+                    "modification": "- Rz. Atractylodis"
+                },
+                {
+                    "herb": "JingJie",
+                    "modification": "- Hb. Schizonepetae"
+                },
+                {
+                    "herb": "DiFuZi",
+                    "modification": "+ 30g Fr. Kochiae"
+                },
+                {
+                    "herb": "BaiJiLi",
+                    "modification": "+ 10g Fr. Tribuli"
+                },
+                {
+                    "herb": "GanCao",
+                    "modification": "+ 9g Rx. Glycyrrhizae"
+                },
+                {
+                    "herb": "QuanXie",
+                    "modification": "+ 9g Scorpio"
+                },
+                {
+                    "herb": "WuShaoShe",
+                    "modification": "+ 9g Zaocys"
+                }
+            ]
+        },
+        {
+            "purpose": "neurodermatitis with insomnia",
+            "modifications": [
+                {
+                    "herb": "DangGui",
+                    "modification": "- Rx. Angelicae Sinensis"
+                },
+                {
+                    "herb": "CangZhu",
+                    "modification": "- Rz. Atractylodis"
+                },
+                {
+                    "herb": "JingJie",
+                    "modification": "- Hb. Schizonepetae"
+                },
+                {
+                    "herb": "DiFuZi",
+                    "modification": "+ 30g Fr. Kochiae"
+                },
+                {
+                    "herb": "BaiJiLi",
+                    "modification": "+ 10g Fr. Tribuli"
+                },
+                {
+                    "herb": "GanCao",
+                    "modification": "+ 9g Rx. Glycyrrhizae"
+                },
+                {
+                    "herb": "HeHuanPi",
+                    "modification": "+15g Cx. Albizziae"
+                },
+                {
+                    "herb": "SuanZaoRen",
+                    "modification": "+ 15g Sm. Zizyphi Spinosae"
+                },
+                {
+                    "herb": "ChaiHu",
+                    "modification": "+ 12g Rx. Bupleuri"
+                }
+            ]
+        },
+        {
+            "purpose": "neurodermatitis with the neck affected",
+            "modifications": [
+                {
+                    "herb": "DangGui",
+                    "modification": "- Rx. Angelicae Sinensis"
+                },
+                {
+                    "herb": "CangZhu",
+                    "modification": "- Rz. Atractylodis"
+                },
+                {
+                    "herb": "JingJie",
+                    "modification": "- Hb. Schizonepetae"
+                },
+                {
+                    "herb": "DiFuZi",
+                    "modification": "+ 30g Fr. Kochiae"
+                },
+                {
+                    "herb": "BaiJiLi",
+                    "modification": "+ 10g Fr. Tribuli"
+                },
+                {
+                    "herb": "GanCao",
+                    "modification": "+ 9g Rx. Glycyrrhizae"
+                }
+            ]
+        }
+    ]
+}

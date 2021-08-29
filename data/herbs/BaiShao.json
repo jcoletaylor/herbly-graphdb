@@ -1,0 +1,549 @@
+{
+    "herb": "BaiShao",
+    "names": {
+        "pinyin": "bai shao (yao)",
+        "hanzi": "白芍",
+        "latin": "radix paeoniae alba",
+        "pharmaceuticalLatin": "Radix Paeoniae Alba",
+        "commonEnglish": [
+            "White Peony Root",
+            "Peony"
+        ]
+    },
+    "category": "Herbs that Tonify the Blood",
+    "properties": {
+        "taste": {
+            "primary": [
+                "Bitter",
+                "Sour"
+            ],
+            "secondary": []
+        },
+        "temperature": {
+            "primary": [
+                "Mildly Cold"
+            ],
+            "secondary": [
+                "Cool"
+            ]
+        },
+        "channels": {
+            "primary": [
+                "Liver",
+                "Spleen"
+            ],
+            "secondary": [
+                "Lung"
+            ]
+        },
+        "dose": {
+            "general": "5-30g",
+            "tincture": "2-4ml",
+            "other": []
+        }
+    },
+    "actions": {
+        "sets": [
+            {
+                "action": {
+                    "primary": "Nourishes the Blood and regulates menstruation"
+                },
+                "indications": [
+                    "Liver Blood Deficiency with menstrual dysfunction, vaginal discharge and uterine bleeding accompanied by a pale face, a lusterless complexion and dull, lusterless nails",
+                    "Anemia",
+                    "Breast distention and premenstrual syndrome"
+                ]
+            },
+            {
+                "action": {
+                    "primary": "Astringes Yin and adjusts the Ying and Wei"
+                },
+                "indications": [
+                    "Yin Deficiency sweating",
+                    "Sweating due to Yin Collapse",
+                    "Disharmony between the Liver and Spleen"
+                ]
+            },
+            {
+                "action": {
+                    "primary": "Calms Liver Yang and Liver Wind and alleviates pain"
+                },
+                "indications": [
+                    "Liver Qi Stagnation with Liver Yang Rising",
+                    "Liver Wind with Yin and Blood Deficiency",
+                    "Bi syndrome due to Blood Deficiency with pain and spasms"
+                ]
+            },
+            {
+                "action": {
+                    "primary": "Softens the Liver and relieves pain"
+                },
+                "indications": [
+                    "Diarrhea, borborygmus and abdominal pain",
+                    "Dysenteric disorders with tenesmus"
+                ]
+            }
+        ]
+    },
+    "contra": {
+        "contraindications": [
+            "Contraindicated for those with diarrhea from Deficiency Cold (Yang Deficiency).",
+            "Contraindicated for those with eczema or rashes from External Wind Attack with incomplete expression.",
+            "Contraindicated postpartum for those with Blood Stagnation or those who are still bleeding.",
+            "Do not use in large doses or over a prolonged period for those with Liver disorders.",
+            "This herb may be associated with drowsiness, so use caution when driving or operating heavy machinery."
+        ],
+        "incompatibilities": [
+            "Antagonizes Hb. Dendrobii #{ShiHu} Shi Hu.",
+            "Antagonizes Hb. Cephalanoplos #{XiaoJi} Xiao Ji.",
+            "Incompatible with Rz. et Rx. Veratri #{LiLu} Li Lu."
+        ],
+        "interactions": [
+            "Use caution for those taking anticoagulants such as heparin, warfarin (Coumadin), and enoxaprin (Lovenox) or antiplatelet drugs such as aspirin, dipyridamole (Persantine), and clopidogrel (Plavix).",
+            "Use caution for those taking insulin, sulfonylureas and other anti-diabetics such as tolbutamide (Orinase), glipizide (Glucotrol) and glyburide (DiaBeta/Micronase) as there may be a synergistic effect leading to hypoglycemia.",
+            "Use caution with sedatives as this herb has a sedative and analgesic effect on the central nervous system. It prolongs sleeping time induced by barbiturates and has a protective effect against seizures induced by cardiazol."
+        ]
+    },
+    "combinations": {
+        "sets": [
+            {
+                "relatedHerbs": [
+                    "DangGui",
+                    "ShuDiHuang"
+                ],
+                "useCases": [
+                    "Dizziness, blurred vision and dysmenorrhea due to Blood Deficiency or Stasis."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "DangGui",
+                    "ShuDiHuang",
+                    "MaiMenDong"
+                ],
+                "useCases": [
+                    "Tinnitus, dizziness, blurred vision, numbness of the extremities and muscle spasms due to Liver Yin Deficiency."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "DangGui",
+                    "ShuDiHuang",
+                    "GanJiang",
+                    "AiYe"
+                ],
+                "useCases": [
+                    "Dizziness, blurred vision, and dysmenorrhea due to Blood Deficiency or Stasis with concurrent Yang Deficiency and Cold."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "DangGui",
+                    "ShuDiHuang",
+                    "HuangQin",
+                    "MuDanPi"
+                ],
+                "useCases": [
+                    "Dizziness, blurred vision, and dysmenorrhea due to Blood Deficiency or Stasis with concurrent Heat signs."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GanCao"
+                ],
+                "useCases": [
+                    "Abdominal pain due to disharmony between the Liver and Stomach.",
+                    "Epigastric, hypochondriac or flank pain.",
+                    "Muscle spasms, pain and numbness, especially in the calf, due to Blood Deficiency.",
+                    "Regulates the relationship between the Liver and Spleen and nourishes the sinews."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GanCao",
+                    "MuGua",
+                    "JiXueTeng"
+                ],
+                "useCases": [
+                    "Painful spasms of the calves."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin",
+                    "HuangLian"
+                ],
+                "useCases": [
+                    "Damp-Heat dysenteric disorders."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ChaiHu"
+                ],
+                "useCases": [
+                    "Flank pain due to Liver Qi Stagnation."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "XiangFu",
+                    "YanHuSuo"
+                ],
+                "useCases": [
+                    "Abdominal pain with menstruation."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GouTeng",
+                    "JuHua"
+                ],
+                "useCases": [
+                    "Headache and dizziness due to Liver Yang Rising."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "FangFeng",
+                    "BaiZhu",
+                    "ChenPi"
+                ],
+                "useCases": [
+                    "Painful diarrhea and borborygmus."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ShengDiHuang",
+                    "EJiao"
+                ],
+                "useCases": [
+                    "Internal Stirring of Liver Wind, as in the aftermath of a febrile disease."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "DuHuo",
+                    "QinJiao",
+                    "RenShen",
+                    "DangGui",
+                    "GanCao"
+                ],
+                "useCases": [
+                    "Chronic Bi Syndrome with injury to Qi and Blood leading to spasms of the extremities."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GuiZhi"
+                ],
+                "useCases": [
+                    "Harmonizes the Ying and Wei in Tai Yang Zhong Feng."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GuiZhi",
+                    "LongGu",
+                    "MuLi"
+                ],
+                "useCases": [
+                    "Yang Deficiency with unstable exterior and muscle layers."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "LongGu",
+                    "MuLi"
+                ],
+                "useCases": [
+                    "Spontaneous sweating and night sweats due to Yin Deficiency."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "DangGui"
+                ],
+                "useCases": [
+                    "Nourishes Yin and Blood."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "WuWeiZi",
+                    "FuXiaoMai",
+                    "BaiZiRen",
+                    "MuLi"
+                ],
+                "useCases": [
+                    "Night sweats."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQi",
+                    "RenShen"
+                ],
+                "useCases": [
+                    "Restrains sweating from Deficiency."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin"
+                ],
+                "useCases": [
+                    "Dysenteric disorders with abdominal pain due to Heat entering the Interior.",
+                    "Cools Heat and nourishes the Blood for calming the fetus which is disturbed by Heat.",
+                    "Liver Heat Attacking the Spleen and Stomach during pregnancy with nausea and vomiting."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HeHuanPi"
+                ],
+                "useCases": [
+                    "Anxiety, irritability, worry and insomnia."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "WuLingZhi",
+                    "PuHuang",
+                    "GanCao",
+                    "YanHuSuo",
+                    "TaoRen",
+                    "HongHua"
+                ],
+                "useCases": [
+                    "Menstrual disorders with Blood Stagnation, such as dysmenorrhea with clots, delayed onset or amenorrhea."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GanJiang",
+                    "RouGui",
+                    "AiYe"
+                ],
+                "useCases": [
+                    "Menstrual disorders with Cold signs such as cold extremities, dark purple clots, pain aggravated by Cold and delayed menstruation."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin",
+                    "HuangLian",
+                    "MuDanPi"
+                ],
+                "useCases": [
+                    "Menstrual disorders with Heat signs such as profuse, fresh red Blood, Heat sensations or early menstruation."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ChaiHu",
+                    "XiangFu",
+                    "ZiSuGeng",
+                    "QingPi"
+                ],
+                "useCases": [
+                    "Menstrual disorders with Liver Qi Stagnation, such as pre-menstrual syndrome, bloating, irritability and distended breasts."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQi",
+                    "RenShen",
+                    "BaiZhu",
+                    "DangShen"
+                ],
+                "useCases": [
+                    "Menstrual disorders with Qi Deficiency signs such as fatigue, weakness and pale, scanty menstrual Blood."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "DuZhong",
+                    "XuDuan",
+                    "SangJiSheng",
+                    "TuSiZi"
+                ],
+                "useCases": [
+                    "Lower back pain or restless fetus due to Kidney Deficiency."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "EJiao",
+                    "MoHanLian(Cao)",
+                    "XianHeCao",
+                    "HaiPiaoXiao"
+                ],
+                "useCases": [
+                    "Abnormal uterine bleeding."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ShengDiHuang",
+                    "EJiao",
+                    "MuLi",
+                    "BieJia",
+                    "GuiBan",
+                    "MaiMenDong"
+                ],
+                "useCases": [
+                    "Muscle spasms."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GuiZhi",
+                    "ShengJiang",
+                    "DaZao",
+                    "LongGu",
+                    "MuLi"
+                ],
+                "useCases": [
+                    "Spontaneous sweating."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GuiZhi",
+                    "ShengJiang",
+                    "DaZao"
+                ],
+                "useCases": [
+                    "Wind-Cold with Deficiency and perspiration."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GuiZhi",
+                    "ShengJiang",
+                    "DaZao",
+                    "ZhiFuZi"
+                ],
+                "useCases": [
+                    "Excess perspiration caused by inappropriate use of diaphoretics."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQi",
+                    "GuiZhi",
+                    "ShengJiang",
+                    "DaZao"
+                ],
+                "useCases": [
+                    "Bi syndrome."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "MuGua",
+                    "JiXueTeng",
+                    "WeiLingXian",
+                    "GanCao"
+                ],
+                "useCases": [
+                    "Bone spurs."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ShengDiHuang",
+                    "NiuXi",
+                    "DaiZheShi",
+                    "MuLi"
+                ],
+                "useCases": [
+                    "Liver Yang Rising."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "JuHua",
+                    "SangYe",
+                    "ShengDiHuang",
+                    "MuLi",
+                    "ShiJueMing",
+                    "TianMa"
+                ],
+                "useCases": [
+                    "Liver Yang Rising with Liver Wind."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GuiZhi",
+                    "YiTang",
+                    "DaZao",
+                    "GanCao",
+                    "ShengJiang"
+                ],
+                "useCases": [
+                    "Severe epigastric or abdominal pain or cramps caused by the Liver overacting on the deficient, Cold Middle Jiao."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "MuGua",
+                    "GuiZhi",
+                    "JiXueTeng",
+                    "DangGui",
+                    "DanZhuYe",
+                    "ShenJinCao"
+                ],
+                "useCases": [
+                    "Bi syndrome due to Cold and Deficiency of Blood."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ChaiHu",
+                    "DangGui",
+                    "BaiZhu",
+                    "GanCao"
+                ],
+                "useCases": [
+                    "Premenstrual syndrome."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin",
+                    "HuangLian",
+                    "DaHuang",
+                    "GeGen",
+                    "BaiTouWeng",
+                    "MuXiang",
+                    "GanCao"
+                ],
+                "useCases": [
+                    "Dysenteric disorders with tenesmus."
+                ]
+            }
+        ]
+    },
+    "notes": [
+        "This is a commonly used herb for treating women’s disorders.",
+        "This herb is used to soften and comfort the Liver.",
+        "It is important in stopping painful spasms in the abdomen and extremities and abdominal pain due to dysenteric disorders.",
+        "Some sources classify this herb as an Astringent.",
+        "Used in formulas to prevent miscarriage due to weakness of the Blood or Liver Stagnation.",
+        "It is used to treat pain in Blood Deficiency disorders.",
+        "It can also be considered an herb that Extinguishes Wind.",
+        "It is an herb that both tonifies and drains.",
+        "It enters the Spleen channel and supports the Spleen when attacked by Liver Qi.",
+        "This herb pacifies the Liver, nourishes Blood and astringes Yin, while Rx. Paeoniae Rubra #{ChiShao} Chi Shao, cools the Blood, breaks up Stagnation and clears Heat from the Liver. They are often used in combination.",
+        "Bai Shao and Rx. Angelica Sinensis #{DangGui} Dang Gui both nourish Blood and alleviate pain. Dang Gui unblocks, disperses, drains and lubricates the Intestines while Bai Shao astringes Yin to extinguish Internal Wind and stop sweating and nourishes Liver blood to soften the Liver to relieve painful cramping, and other pain in the flanks and abdomen due to Liver disorders.",
+        "Dry-fried White Peony Chao Bai Shao is less cold, but its ability to nourish Blood, harmonize the collaterals, moderate the Spleen, relax the Liver and alleviate pain is enhanced. It is for Spleen Deficiency or Spleen and Liver Disharmony with diarrhea and abdominal pain.",
+        "Earth-fried White Peony Tu Chao Bai Shao is used for nausea or diarrhea with abdominal pain due to Spleen and Stomach Deficiency.",
+        "Wine-fried White Peony Jiu Chao Bai Shao has a mild ability to invigorate the Blood and is used when Blood Deficiency is coupled with Blood Stasis or Cold.",
+        "Vinegar-fried White Peony Cu Chao Bai Shao is more able to soften the Liver, alleviate pain and stop bleeding and is used to nourish Blood and tonify the Liver. It is used in combination to treat irregular menstruation or metrorrhagia due to disharmony between the Chong and Ren channels.",
+        "Charred White Peony Bai Shao Tan is best for retaining Blood and stopping bleeding. It also helps reduce diarrhea and dysenteric disorders."
+    ]
+}

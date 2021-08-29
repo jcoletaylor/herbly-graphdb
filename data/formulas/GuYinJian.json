@@ -1,0 +1,294 @@
+{
+    "formula": "GuYinJian",
+    "names": {
+        "pinyin": "gu yin jian",
+        "hanzi": "股荫煎",
+        "english": "stabilize the yin decoction",
+        "commonEnglish": "Stabilize the Yin Decoction",
+        "aka": [
+            "Decoction for Keeping Yin"
+        ]
+    },
+    "herbs": [
+        {
+            "herb": "RenShen",
+            "dosage": "3-10g",
+            "actions": [
+                "Tonifies Qi.",
+                "With Shu Di Huang, for Qi and Yin Deficiency."
+            ]
+        },
+        {
+            "herb": "DangShen",
+            "dosage": "(3-20g)",
+            "actions": [
+                "(Substitutes for Ren Shen.)"
+            ]
+        },
+        {
+            "herb": "ShuDiHuang",
+            "dosage": "9-20g",
+            "actions": [
+                "Nourishes the Blood, nourishes Liver and Kidney Yin, nourishes Jing and Blood and fills the Marrow.",
+                "With Shan Zhu Yu, nourishes Kidney Yin and secures Jing, while restraining urination and sweating",
+                "With Shan Zhu Yu and Shan Yao, for dizziness, weak and sore back, impotence, sperma-torrhea and night sweats, due to Kidney and Liver Yin Deficiency.",
+                "With Ren Shen, for Qi and Yin Deficiency."
+            ]
+        },
+        {
+            "herb": "ShanYao",
+            "dosage": "6-12g",
+            "actions": [
+                "Tonifies Kidney Yin and astringes Jing.",
+                "With Shu Di Huang and Shan Zhu Yu, for Kidney Deficiency with spermatorrhea and night sweats.",
+                "With Shan Zhu Yu and Tu Si Zi, for leukorrhea due to Spleen and Kidney Deficiency."
+            ]
+        },
+        {
+            "herb": "ShanZhuYu",
+            "dosage": "4.5-10g",
+            "actions": [
+                "Stabilizes the Kidneys, astringes Jing and Body Fluids, tonifies Liver and Kidney Yin, strengthens Kidney Yang, stabilizes the menses and stops bleeding."
+            ]
+        },
+        {
+            "herb": "YuanZhi",
+            "dosage": "2.1-3g",
+            "actions": [
+                "Calms the Spirit, sedates the Heart and clears the channel joining the Heart and Kidney Expels Phlegm, opens the Orifices."
+            ]
+        },
+        {
+            "herb": "GanCao",
+            "dosage": "3-6g",
+            "actions": [
+                "Tonifies the Spleen and augments Qi and moderates and harmonizes the harsh properties of other herbs.",
+                "With Ren Shen, relieves palpitations and anxiety."
+            ]
+        },
+        {
+            "herb": "WuWeiZi",
+            "dosage": "3-6g",
+            "actions": [
+                "Tonifies the Kidneys, astringes Jing, stops diarrhea and spermatorrhea, tonifies Qi and quiets the Spirit and calms and contains Heart Qi.",
+                "With Shu Di Huang, Shan Zhu Yu and Shan Yao, for Lung and Kidney Deficiency with cough and wheezing."
+            ]
+        },
+        {
+            "herb": "TuSiZi",
+            "dosage": "6-10g",
+            "actions": [
+                "Strengthens Yang, nourishes Yin, astringes Jing and urine, benefits the marrow, tonifies the Kidneys and Liver and calms the fetus."
+            ]
+        }
+    ],
+    "actions": [
+        "Enriches and tonifies the Kidneys",
+        "Nourishes the Liver",
+        "Regulates the Chong and Ren channels",
+        "Regulates menstruation",
+        "Strengthens the Spleen"
+    ],
+    "syndromes": [
+        "Early or Late menstruation due to Kidney Deficiency",
+        "Amenorrhea due to Kidney and Spleen Yang Deficiency"
+    ],
+    "manifestations": {
+        "symptoms": [
+            "Early menstruation",
+            "Late menstruation",
+            "Scanty menses",
+            "Light-colored menses",
+            "Menses may be mixed with leukorrhea",
+            "Low back pain that can be severe",
+            "Soft stools",
+            "Distention in the lower abdomen",
+            "A sense of prolapse in the lower abdomen",
+            "Anorexia",
+            "Fatigue",
+            "Light headedness",
+            "Dizziness",
+            "Frequent erotic dreams",
+            "Tinnitus",
+            "Urinary frequency at night",
+            "Weakness in the lower limbs",
+            "Vertigo"
+        ],
+        "tongue": "Pale",
+        "tongueCoat": "Thin",
+        "pulse": "Deep and frail"
+    },
+    "conditions": [
+        {
+            "condition": "EarlyMenstruation",
+            "name": "Early menstruation"
+        },
+        {
+            "condition": "LateMenstruation",
+            "name": "Late menstruation "
+        },
+        {
+            "name": "Chronic cervicitis "
+        },
+        {
+            "condition": "Cellulitis",
+            "name": "Chronic pelvic cellulitis"
+        },
+        {
+            "condition": "IrregularMenstruation",
+            "name": "Irregular menstruation "
+        },
+        {
+            "name": "Leukorrhagia"
+        },
+        {
+            "condition": "Neurasthenia",
+            "name": "Neurasthenia"
+        },
+        {
+            "condition": "Metrorrhagia",
+            "name": "Metrorrhagia"
+        },
+        {
+            "condition": "Amenorrhea",
+            "name": "Amenorrhea"
+        }
+    ],
+    "contra": {
+        "contraindications": [
+            ""
+        ],
+        "interactions": [
+            ""
+        ]
+    },
+    "notes": [
+        ""
+    ],
+    "modifications": [
+        {
+            "purpose": "irregular menstruation from Kidney Deficiency due to Insufficiency of the Chong and Ren channels",
+            "modifications": [
+                {
+                    "herb": "XuDuan",
+                    "modification": "+ Rx. Dipsaci"
+                }
+            ]
+        },
+        {
+            "purpose": "a stronger effect",
+            "modifications": []
+        },
+        {
+            "purpose": "nocturnal emission or thin discharge due to Kidney Deficiency",
+            "modifications": [
+                {
+                    "herb": "ShanZhuYu",
+                    "modification": "+ More Fr. Corni"
+                }
+            ]
+        },
+        {
+            "purpose": "amenorrhea with Kidney Yang Deficiency",
+            "modifications": [
+                {
+                    "herb": "ZhiFuZi",
+                    "modification": "+ Rx. Aconiti Lateralis Preparata"
+                },
+                {
+                    "herb": "RouGui",
+                    "modification": "+ Cx. Cinnamomi"
+                },
+                {
+                    "herb": "BuGuZhi",
+                    "modification": "+ Fr. Psoraliae"
+                }
+            ]
+        },
+        {
+            "purpose": "vaginal discharge due to Kidney Yin and Yang Deficiency",
+            "modifications": [
+                {
+                    "herb": "ShanZhuYu",
+                    "modification": "- Fr. Corni"
+                },
+                {
+                    "herb": "WuZhuYu",
+                    "modification": "+ 4.5g Fr. Evodiae"
+                }
+            ]
+        },
+        {
+            "purpose": "extremely Deficient vaginal discharge due to Kidney Yin and Yang Deficiency",
+            "modifications": [
+                {
+                    "herb": "ShanZhuYu",
+                    "modification": "- Fr. Corni"
+                },
+                {
+                    "herb": "WuZhuYu",
+                    "modification": "+ 4.5g Fr. Evodiae"
+                },
+                {
+                    "herb": "JinYingZi",
+                    "modification": "+ 6-9g Fr. Rosae Laevigatae"
+                },
+                {
+                    "herb": "WuMei",
+                    "modification": "+ 6g Fr Mume"
+                }
+            ]
+        },
+        {
+            "purpose": "vaginal discharge due to Kidney Yin and Yang Deficiency with a lack of astringency of the menstrual Blood",
+            "modifications": [
+                {
+                    "herb": "ShanZhuYu",
+                    "modification": "- Fr. Corni"
+                },
+                {
+                    "herb": "WuZhuYu",
+                    "modification": "+ 4.5g Fr. Evodiae"
+                },
+                {
+                    "herb": "XuDuan",
+                    "modification": "+ 6g Rx. Dipsaci"
+                }
+            ]
+        },
+        {
+            "purpose": "vaginal discharge due to Kidney Yin and Yang Deficiency with Blood not returning to the channels",
+            "modifications": [
+                {
+                    "herb": "ShanZhuYu",
+                    "modification": "- Fr. Corni"
+                },
+                {
+                    "herb": "WuZhuYu",
+                    "modification": "+ 4.5g Fr. Evodiae"
+                },
+                {
+                    "herb": "DangGui",
+                    "modification": "+ 6-9g Rx. Angelicae Sinensis"
+                }
+            ]
+        },
+        {
+            "purpose": "vaginal discharge due to Kidney Yin and Yang Deficiency with a lack of Qi astringency",
+            "modifications": [
+                {
+                    "herb": "ShanZhuYu",
+                    "modification": "- Fr. Corni"
+                },
+                {
+                    "herb": "WuZhuYu",
+                    "modification": "+ 4.5g Fr. Evodiae"
+                },
+                {
+                    "herb": "ShengMa",
+                    "modification": "+ 3g Rz. Cimicifugae"
+                }
+            ]
+        }
+    ]
+}

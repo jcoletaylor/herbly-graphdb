@@ -1,0 +1,718 @@
+{
+    "formula": "ZuoGuiYin",
+    "names": {
+        "pinyin": "zuo gui yin",
+        "hanzi": "左归片",
+        "english": "restore the left (kidney) drink",
+        "commonEnglish": "Restore the Left (Kidney) Drink",
+        "aka": [
+            "Replenish the Yin-Fluid Decoction"
+        ]
+    },
+    "herbs": [
+        {
+            "herb": "ShuDiHuang",
+            "dosage": "6-60g",
+            "actions": [
+                "Tonifies the Kidneys and nourishes Jing, Yin and Blood.",
+                "With Shan Zhu Yu, nourishes Kidney Yin and secures Jing, while restraining urination and sweating."
+            ]
+        },
+        {
+            "herb": "ShanYao",
+            "dosage": "3-15g",
+            "actions": [
+                "Strengthens the Spleen , stabilizes the Kidneys and astringes Jing.",
+                "With Shu Di Huang and Shan Zhu Yu, for Kidney Deficiency with spermatorrhea, dizziness, tinnitus, lower back pain, impotence and night sweats."
+            ]
+        },
+        {
+            "herb": "GouQiZi",
+            "dosage": "6-15g",
+            "actions": [
+                "Nourishes and tonifies Liver and Kidney Blood and Yin.",
+                "With Shu Di Huang, for Liver and Kidney Deficiency."
+            ]
+        },
+        {
+            "herb": "FuLing",
+            "dosage": "4.5-12g",
+            "actions": [
+                "Strengthens the Spleen and drains Dampness."
+            ]
+        },
+        {
+            "herb": "ShanZhuYu",
+            "dosage": "3-9g",
+            "actions": [
+                "Nourishes Kidney Yin and Yang, astringes Jing and Yin and stops perspiration.",
+                "With Shan Yao, tonifies the Liver and Spleen.",
+                "With Shu Di Huang and Shan Yao, for urinary frequency (day or night), dizziness, tinnitus and lower back pain due to Kidney Deficiency.",
+                "With Shu Di Huang, Gou Qi Zi and Shan Yao, for true Yin Deficiency."
+            ]
+        },
+        {
+            "herb": "GanCao",
+            "dosage": "3-6g",
+            "actions": [
+                "Moderates and harmonizes the harsh properties of other herbs."
+            ]
+        }
+    ],
+    "actions": [
+        "Nourishes Yin",
+        "Tonifies the Kidneys"
+    ],
+    "syndromes": [
+        "Kidney Yin and Jing Deficiency",
+        "Atrophy disorder (Wei Syndrome) due to Liver and Kidney Deficiency"
+    ],
+    "manifestations": {
+        "symptoms": [
+            "Lower back soreness",
+            "Spontaneous emissions",
+            "Spermatorrhea",
+            "Night sweats",
+            "A dry mouth and throat",
+            "Thirst with a desire to drink"
+        ],
+        "tongue": "Red",
+        "tongueCoat": "Peeled and shiny",
+        "pulse": "Thready and rapid"
+    },
+    "conditions": [
+        {
+            "condition": "MenopauseSyndrome",
+            "name": "Menopause syndrome"
+        },
+        {
+            "condition": "Diabetes",
+            "name": "Diabetes"
+        },
+        {
+            "condition": "RenalTuberculosis",
+            "name": "Renal tuberculosis"
+        },
+        {
+            "condition": "Lachrymation",
+            "name": "Lacrimation"
+        },
+        {
+            "condition": "MyastheniaGravis",
+            "name": "Myasthenia gravis"
+        },
+        {
+            "condition": "MultipleSclerosis",
+            "name": "Multiple sclerosis"
+        },
+        {
+            "condition": "Polyneuritis",
+            "name": "Polyneuritis"
+        },
+        {
+            "condition": "Gullaine-BarreSyndrome",
+            "name": "Guillain-Barre disease"
+        },
+        {
+            "name": " Acute myelitis (inflammation of the spinal cord) "
+        },
+        {
+            "name": "Progressive muscular dystrophy"
+        },
+        {
+            "name": "The sequelae of poliomyelitis"
+        },
+        {
+            "condition": "NightSweats",
+            "name": "Night sweats"
+        },
+        {
+            "condition": "Spermatorrhea",
+            "name": "Spermatorrhea"
+        },
+        {
+            "condition": "Constipation",
+            "name": "Constipation"
+        },
+        {
+            "condition": "WeiSyndrome",
+            "name": "Atrophy (Wei) Syndrome"
+        },
+        {
+            "condition": "LowBackPain",
+            "name": "Lumbago"
+        },
+        {
+            "condition": "Addison'sDisease",
+            "name": "Addison's disease"
+        },
+        {
+            "condition": "Amenorrhea",
+            "name": "Amenorrhea"
+        },
+        {
+            "condition": "Alopecia",
+            "name": "Alopecia"
+        },
+        {
+            "name": "Progressive myodystrophy "
+        },
+        {
+            "name": "Progressive myodystrophia "
+        },
+        {
+            "condition": "Parylysis",
+            "name": "Hysterical paralysis "
+        },
+        {
+            "condition": "Parylysis",
+            "name": "Periodic paralysis"
+        },
+        {
+            "condition": "FacialParalysis",
+            "name": "Facial paralysis"
+        },
+        {
+            "condition": "Gullaine-BarreSyndrome",
+            "name": "Acute infectious multiple neuritis"
+        },
+        {
+            "condition": "Impotence",
+            "name": "Impotence"
+        },
+        {
+            "condition": "Osteoporosis",
+            "name": "Osteoporosis"
+        },
+        {
+            "condition": "Spermatorrhea",
+            "name": "Nocturnal emissions"
+        },
+        {
+            "condition": "Metrorrhagia",
+            "name": "Post-menopausal uterine bleeding"
+        }
+    ],
+    "contra": {
+        "contraindications": [
+            ""
+        ],
+        "interactions": [
+            ""
+        ]
+    },
+    "notes": [
+        "This is a milder version of Zuo Gui Wan."
+    ],
+    "modifications": [
+        {
+            "purpose": "Lung Heat with irritability",
+            "modifications": [
+                {
+                    "herb": "MaiMenDong",
+                    "modification": "+ Rx. Ophiopogonis"
+                }
+            ]
+        },
+        {
+            "purpose": "Blood Stasis",
+            "modifications": [
+                {
+                    "herb": "MuDanPi",
+                    "modification": "+ Cx. Moutan"
+                }
+            ]
+        },
+        {
+            "purpose": "Heat in the Spleen with frequent hunger that cannot be satisfied",
+            "modifications": [
+                {
+                    "herb": "BaiShao",
+                    "modification": "+ Rx. Paeoniae Alba"
+                }
+            ]
+        },
+        {
+            "purpose": "Heat in the Kidneys with steaming bone disorder and profuse sweating",
+            "modifications": [
+                {
+                    "herb": "DiGuPi",
+                    "modification": "+ Cx. Lycii"
+                }
+            ]
+        },
+        {
+            "purpose": "Heart Heat with Dryness",
+            "modifications": [
+                {
+                    "herb": "XuanShen",
+                    "modification": "+ Rx. Scrophulariae"
+                }
+            ]
+        },
+        {
+            "purpose": "bleeding",
+            "modifications": [
+                {
+                    "herb": "ShengDiHuang",
+                    "modification": "+ Rx. Rehmanniae"
+                }
+            ]
+        },
+        {
+            "purpose": "Blood Deficiency",
+            "modifications": [
+                {
+                    "herb": "DangGui",
+                    "modification": "+ Rx. Angelicae Sinensis"
+                },
+                {
+                    "herb": "HeShouWu",
+                    "modification": "+ 15g Hb. Polygoni Multiflori"
+                },
+                {
+                    "herb": "MuLi",
+                    "modification": "+ 30g Concha Ostreae"
+                },
+                {
+                    "herb": "ZhenZhuMu",
+                    "modification": "+ 20g Concha Margaritaferae Usta"
+                },
+                {
+                    "herb": "FangFeng",
+                    "modification": "+ 6g Rx. Saposhnikoviae"
+                },
+                {
+                    "herb": "YuZhu",
+                    "modification": "+ 15g Rz. Polygonati Odorati"
+                },
+                {
+                    "herb": "ChanTui",
+                    "modification": "+ 6g Periostracum Cicadae"
+                },
+                {
+                    "herb": "XuDuan",
+                    "modification": "+ 15g Rx. Dipsaci"
+                }
+            ]
+        },
+        {
+            "purpose": "menopause syndrome",
+            "modifications": [
+                {
+                    "herb": "HeShouWu",
+                    "modification": "+ 15g Hb. Polygoni Multiflori"
+                }
+            ]
+        },
+        {
+            "purpose": "menopause syndrome with itchy skin",
+            "modifications": [
+                {
+                    "herb": "ZhenZhuMu",
+                    "modification": "+ 20g Concha Margaritaferae Usta"
+                }
+            ]
+        },
+        {
+            "purpose": "menopause syndrome with marked aches in the waist and legs",
+            "modifications": [
+                {
+                    "herb": "HeShouWu",
+                    "modification": "+ 15g Hb. Polygoni Multiflori"
+                },
+                {
+                    "herb": "ZhenZhuMu",
+                    "modification": "+ 20g Concha Margaritaferae Usta"
+                },
+                {
+                    "herb": "SangJiSheng",
+                    "modification": "+ 15g Hb. Taxilli"
+                }
+            ]
+        },
+        {
+            "purpose": "menopause syndrome due to Kidney and Liver Yin Deficiency with Liver Yang Rising",
+            "modifications": [
+                {
+                    "herb": "ShiJueMing",
+                    "modification": "+ 20g Concha Haliotidis"
+                },
+                {
+                    "herb": "YuJin",
+                    "modification": "+ 15g Rz. Curcumae"
+                },
+                {
+                    "herb": "BaiShao",
+                    "modification": "+ 15g Rx. Paeoniae Alba"
+                }
+            ]
+        },
+        {
+            "purpose": "amenorrhea due to Kidney Qi Deficiency",
+            "modifications": [
+                {
+                    "herb": "ShanYao",
+                    "modification": "- Rz. Dioscoreae"
+                },
+                {
+                    "herb": "FangFeng",
+                    "modification": "+ Rx. Saposhnikoviae"
+                },
+                {
+                    "herb": "BaiZhi",
+                    "modification": "+ Rx. Angelicae Dahuricae"
+                },
+                {
+                    "herb": "MuZei",
+                    "modification": "+ Hb. Equiseti Hiemalis"
+                },
+                {
+                    "herb": "XiXin",
+                    "modification": "+ Hb. Hb. cum Rx. Asari"
+                }
+            ]
+        },
+        {
+            "purpose": "alopecia",
+            "modifications": [
+                {
+                    "herb": "HeShouWu",
+                    "modification": "+ Rx. 30g Polygoni Multiflori Preparata"
+                },
+                {
+                    "herb": "BuGuZhi",
+                    "modification": "+ 9g Fr. Psoraliae"
+                },
+                {
+                    "herb": "ZiHeChe",
+                    "modification": "+ 30g Placenta Hominis"
+                },
+                {
+                    "herb": "EJiao",
+                    "modification": "+ 30g Colla Corii Asini"
+                }
+            ]
+        },
+        {
+            "purpose": "osteoporosis",
+            "modifications": [
+                {
+                    "herb": "SangJiSheng",
+                    "modification": "+ 15g Hb. Taxilli"
+                }
+            ]
+        },
+        {
+            "purpose": "osteoporosis with Lung and Stomach Heat, damaging Yin",
+            "modifications": [
+                {
+                    "herb": "SangJiSheng",
+                    "modification": "+ 15g Hb. Taxilli"
+                },
+                {
+                    "herb": "BuGuZhi",
+                    "modification": "+ 9g Fr. Psoraliae"
+                },
+                {
+                    "herb": "MaiMenDong",
+                    "modification": "+ 12g Rx. Ophiopogonis"
+                },
+                {
+                    "herb": "ShiHu",
+                    "modification": "+ 9g Hb. Dendrobii"
+                }
+            ]
+        },
+        {
+            "purpose": "osteoporosis with Heat in the Heart",
+            "modifications": [
+                {
+                    "herb": "SangJiSheng",
+                    "modification": "+ 15g Hb. Taxilli"
+                },
+                {
+                    "herb": "BuGuZhi",
+                    "modification": "+ 9g Fr. Psoraliae"
+                },
+                {
+                    "herb": "XuanShen",
+                    "modification": "+ 15g Rx. Scrophulariae"
+                }
+            ]
+        },
+        {
+            "purpose": "osteoporosis with Heat in the Spleen with rapid hungering after meals",
+            "modifications": [
+                {
+                    "herb": "SangJiSheng",
+                    "modification": "+ 15g Hb. Taxilli"
+                },
+                {
+                    "herb": "BuGuZhi",
+                    "modification": "+ 9g Fr. Psoraliae"
+                },
+                {
+                    "herb": "BaiShao",
+                    "modification": "+ 15g Rx. Paeoniae Alba"
+                }
+            ]
+        },
+        {
+            "purpose": "osteoporosis with marked Deficiency Heat",
+            "modifications": [
+                {
+                    "herb": "BuGuZhi",
+                    "modification": "+ 9g Fr. Psoraliae"
+                },
+                {
+                    "herb": "HuangBai",
+                    "modification": "+ 9g Cx. Phellodendri"
+                }
+            ]
+        },
+        {
+            "purpose": "osteoporosis with bleeding due to Heat in the Xue Level",
+            "modifications": [
+                {
+                    "herb": "SangJiSheng",
+                    "modification": "+ 15g Hb. Taxilli"
+                },
+                {
+                    "herb": "BuGuZhi",
+                    "modification": "+ 9g Fr. Psoraliae"
+                },
+                {
+                    "herb": "ShengDiHuang",
+                    "modification": "+ 15g Rx. Rehmanniae"
+                },
+                {
+                    "herb": "MoHanLian(Cao)",
+                    "modification": "+ 15g Hb. Ecliptae"
+                }
+            ]
+        },
+        {
+            "purpose": "osteoporosis with Blood Deficiency",
+            "modifications": [
+                {
+                    "herb": "BuGuZhi",
+                    "modification": "+ 9g Fr. Psoraliae"
+                },
+                {
+                    "herb": "DangGui",
+                    "modification": "+ 9g Rx. Angelicae Sinensis"
+                }
+            ]
+        },
+        {
+            "purpose": "severe osteoporosis",
+            "modifications": [
+                {
+                    "herb": "SangJiSheng",
+                    "modification": "+ 15g Hb. Taxilli"
+                },
+                {
+                    "herb": "GuSuiBu",
+                    "modification": "+ 9g Rz. Drynariae"
+                },
+                {
+                    "herb": "GuiBan",
+                    "modification": "+ 9g Plastrum Testudinis"
+                }
+            ]
+        },
+        {
+            "purpose": "osteoporosis with fixed or severe stabbing pain due to Blood Stasis",
+            "modifications": [
+                {
+                    "herb": "BuGuZhi",
+                    "modification": "+ 9g Fr. Psoraliae"
+                },
+                {
+                    "herb": "SangJiSheng",
+                    "modification": "+ 15g Hb. Taxilli"
+                },
+                {
+                    "herb": "ChiShao",
+                    "modification": "+ 12g Rx. Paeoniae Rubra"
+                },
+                {
+                    "herb": "RuXiang",
+                    "modification": "+ 6g Olibanum"
+                },
+                {
+                    "herb": "MoYao",
+                    "modification": "+ 6g Myrrh"
+                }
+            ]
+        },
+        {
+            "purpose": "post-menopausal uterine bleeding",
+            "modifications": [
+                {
+                    "herb": "HeShouWu",
+                    "modification": "+ Rx. Polygoni Multiflori"
+                },
+                {
+                    "herb": "GuiBan",
+                    "modification": "+ Plastrum Testudinis"
+                }
+            ]
+        },
+        {
+            "purpose": "post-menopausal uterine bleeding with skin itching",
+            "modifications": [
+                {
+                    "herb": "HeShouWu",
+                    "modification": "+ Rx. Polygoni Multiflori"
+                },
+                {
+                    "herb": "GuiBan",
+                    "modification": "+ Plastrum Testudinis"
+                },
+                {
+                    "herb": "ChanTui",
+                    "modification": "+ Periostracum Cicadae"
+                },
+                {
+                    "herb": "LuFengFang",
+                    "modification": "+ Nidus Vespae"
+                },
+                {
+                    "herb": "BaiXianPi",
+                    "modification": "+ Cx. Dictamni"
+                },
+                {
+                    "herb": "HaiTongPi",
+                    "modification": "+ Cx. Erythrinae"
+                }
+            ]
+        },
+        {
+            "purpose": "post-menopausal uterine bleeding with a headache and dizziness",
+            "modifications": [
+                {
+                    "herb": "HeShouWu",
+                    "modification": "+ Rx. Polygoni Multiflori"
+                },
+                {
+                    "herb": "GuiBan",
+                    "modification": "+ Plastrum Testudinis"
+                },
+                {
+                    "herb": "TianMa",
+                    "modification": "+ Rz. Gastrodiae"
+                },
+                {
+                    "herb": "GouTeng",
+                    "modification": "+ Ram. cum Uncis Uncariae"
+                },
+                {
+                    "herb": "ShiJueMing",
+                    "modification": "+ Concha Haliotidis"
+                },
+                {
+                    "herb": "NiuXi",
+                    "modification": "+ Rx. Achyranthis Bidentatae"
+                },
+                {
+                    "herb": "SangJiSheng",
+                    "modification": "+ Hb. Taxilli"
+                }
+            ]
+        },
+        {
+            "purpose": "post-menopausal uterine bleeding with severe perspiration",
+            "modifications": [
+                {
+                    "herb": "HeShouWu",
+                    "modification": "+ Rx. Polygoni Multiflori"
+                },
+                {
+                    "herb": "GuiBan",
+                    "modification": "+ Plastrum Testudinis"
+                },
+                {
+                    "herb": "FuXiaoMai",
+                    "modification": "+ Fr. Tritici Levis"
+                },
+                {
+                    "herb": "HuangQi",
+                    "modification": "+ Rx. Astragali"
+                }
+            ]
+        },
+        {
+            "purpose": "post-menopausal uterine bleeding with thirst",
+            "modifications": [
+                {
+                    "herb": "HeShouWu",
+                    "modification": "+ Rx. Polygoni Multiflori"
+                },
+                {
+                    "herb": "GuiBan",
+                    "modification": "+ Plastrum Testudinis"
+                },
+                {
+                    "herb": "TianMenDong",
+                    "modification": "+ Rx. Asparagi"
+                },
+                {
+                    "herb": "MaiMenDong",
+                    "modification": "+ Rx. Ophiopogonis"
+                },
+                {
+                    "herb": "ShuDiHuang",
+                    "modification": "+ Rx. Rehmanniae Preparata"
+                },
+                {
+                    "herb": "YaZhiCao",
+                    "modification": "+ Caulis Polygoni Multiflori"
+                },
+                {
+                    "herb": "ZhenZhu",
+                    "modification": "+ Margarita"
+                }
+            ]
+        },
+        {
+            "purpose": "post-menopausal uterine bleeding with tinnitus",
+            "modifications": [
+                {
+                    "herb": "HeShouWu",
+                    "modification": "+ Rx. Polygoni Multiflori"
+                },
+                {
+                    "herb": "GuiBan",
+                    "modification": "+ Plastrum Testudinis"
+                }
+            ]
+        },
+        {
+            "purpose": "post-menopausal uterine bleeding due to Kidney Yin and Yang Deficiency",
+            "modifications": []
+        },
+        {
+            "purpose": "post-menopausal uterine bleeding due to Kidney Yin and Yang Deficiency with insomnia",
+            "modifications": []
+        },
+        {
+            "purpose": "post-menopausal uterine bleeding due to Kidney Yin and Yang Deficiency with lumbar pain",
+            "modifications": [
+                {
+                    "herb": "ShuDiHuang",
+                    "modification": "+ Rx. Rehmanniae Preparata"
+                },
+                {
+                    "herb": "XuDuan",
+                    "modification": "+ Rx. Dipsaci"
+                },
+                {
+                    "herb": "BuGuZhi",
+                    "modification": "+ Fr. Psoraliae"
+                }
+            ]
+        }
+    ]
+}

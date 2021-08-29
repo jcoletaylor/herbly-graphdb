@@ -1,0 +1,56 @@
+{
+    "herb": "YingPi",
+    "names": {
+        "pinyin": "ying  pi",
+        "pharmaceuticalLatin": "Cortex Cerasi",
+        "commonEnglish": [
+            ""
+        ]
+    },
+    "category": "",
+    "properties": {
+        "taste": {
+            "primary": [
+                "No Information"
+            ],
+            "secondary": []
+        },
+        "temperature": {
+            "primary": [
+                "No Information"
+            ],
+            "secondary": []
+        },
+        "channels": {
+            "primary": [
+                "No Information"
+            ],
+            "secondary": []
+        },
+        "dose": {
+            "general": "No Information",
+            "other": []
+        }
+    },
+    "actions": {
+        "sets": [
+            {
+                "action": {
+                    "primary": "Relieves toxicity, stops coughing, expels pus and relieves fevers"
+                },
+                "indications": [
+                    "Food poisoning, especially from fish, urticaria, skin diseases marked by swelling"
+                ]
+            }
+        ]
+    },
+    "contra": {
+        "contraindications": [],
+        "incompatibilities": [],
+        "interactions": []
+    },
+    "combinations": {
+        "sets": []
+    },
+    "notes": []
+}

@@ -1,0 +1,132 @@
+{
+    "herb": "YaSheHuang",
+    "names": {
+        "pinyin": "ya she huang\n              (peng lai cao)",
+        "hanzi": "鴨舌癀",
+        "latin": "herba lippiae",
+        "pharmaceuticalLatin": "Herba Lippiae",
+        "commonEnglish": [
+            "Lippia"
+        ]
+    },
+    "category": "Herbs that Clear Heat and Eliminate Toxins",
+    "properties": {
+        "taste": {
+            "primary": [
+                "Acrid",
+                "Bitter"
+            ],
+            "secondary": []
+        },
+        "temperature": {
+            "primary": [
+                "Cool",
+                "Slightly Toxic"
+            ],
+            "secondary": [
+                "Neutral"
+            ]
+        },
+        "channels": {
+            "primary": [
+                "Liver",
+                "Kidney",
+                "(Heart)"
+            ],
+            "secondary": [
+                "Lung",
+                "Small Intestine"
+            ]
+        },
+        "dose": {
+            "general": "6-15g",
+            "other": []
+        }
+    },
+    "actions": {
+        "sets": [
+            {
+                "action": {
+                    "primary": "Clears Heat, reduces inflammation and regulates menstruation"
+                },
+                "indications": [
+                    "Gynecological disorders"
+                ]
+            },
+            {
+                "action": {
+                    "primary": "Expels Wind, removes toxin and disperses swelling"
+                },
+                "indications": [
+                    "Carbuncles, sore throat, tonsillitis, ulcerative gingivitis",
+                    "Diarrhea due to Heat",
+                    "Gonorrhea, herpes zoster"
+                ]
+            }
+        ]
+    },
+    "contra": {
+        "contraindications": [],
+        "incompatibilities": [],
+        "interactions": []
+    },
+    "combinations": {
+        "sets": [
+            {
+                "relatedHerbs": [
+                    "ShaoFuZhuYuTang"
+                ],
+                "useCases": [
+                    "Irregular menstruation amenor-rhea or dysmenorrhea due to Heat and Blood Stagnation in the Lower Jiao"
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "JiGuanHua",
+                    "MaChiXian"
+                ],
+                "useCases": [
+                    "White discharge"
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "FengWeiCao",
+                    "MaBianCao",
+                    "HongHua",
+                    "MuDanPi",
+                    "TaoRen",
+                    "ChiShao",
+                    "LongDanXieGanTang"
+                ],
+                "useCases": [
+                    "Infertility due to chronic inflam-mation of the pelvic cavity"
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "FengWeiCao",
+                    "YiMuCao",
+                    "BaZhengSan"
+                ],
+                "useCases": [
+                    "Gonorrhea"
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "DaQingYe",
+                    "MaBo"
+                ],
+                "useCases": [
+                    "Tonsillitis, parotitis,",
+                    "Upper respiratory infection",
+                    "Toxic swelling"
+                ]
+            }
+        ]
+    },
+    "notes": [
+        "For herpes zoster, apply this herb topically as a powder."
+    ]
+}

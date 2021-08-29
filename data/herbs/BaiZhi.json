@@ -1,0 +1,455 @@
+{
+    "herb": "BaiZhi",
+    "names": {
+        "pinyin": "bai zhi",
+        "hanzi": "白芷",
+        "latin": "radix angelicae dahuricae",
+        "pharmaceuticalLatin": "Radix Angelicae Dahuricae",
+        "commonEnglish": [
+            "Angelica Root",
+            "White Angelica Root",
+            "Chinese Angelica Root",
+            "Taiwan Angelica Root",
+            "Dahurican Angelica Root"
+        ]
+    },
+    "category": "Herbs that Release the Exterior",
+    "properties": {
+        "taste": {
+            "primary": [
+                "Acrid",
+                "(Bitter)"
+            ],
+            "secondary": [
+                "Slightly sweet"
+            ]
+        },
+        "temperature": {
+            "primary": [
+                "Warm"
+            ],
+            "secondary": []
+        },
+        "channels": {
+            "primary": [
+                "Lung",
+                "Stomach",
+                "Spleen"
+            ],
+            "secondary": [
+                "Large Intestine"
+            ]
+        },
+        "dose": {
+            "general": "3-10g",
+            "tincture": "2-4ml",
+            "other": []
+        }
+    },
+    "actions": {
+        "sets": [
+            {
+                "action": {
+                    "primary": "Expels Wind, eliminates Dampness, unblocks the nasal passages, dispels Cold and alleviates pain"
+                },
+                "indications": [
+                    "External Wind-Cold patterns, especially with headache",
+                    "Supra orbital pain, nasal congestion and toothache, arthritis",
+                    "Any External Wind invasion of the Ying Ming channels of the head with a frontal headache"
+                ]
+            },
+            {
+                "action": {
+                    "primary": "Reduces swelling, eliminates toxins and expels pus"
+                },
+                "indications": [
+                    "Early-stage superficial sores, boils and carbuncles, pruritis"
+                ]
+            }
+        ]
+    },
+    "contra": {
+        "contraindications": [
+            "Contraindicated during pregnancy.",
+            "Contraindicated for those with Blood Deficiency (very drying).",
+            "Contraindicated for those with vaginal discharge from Blood Heat.",
+            "Contraindicated for those with Yin Deficiency Fire (very drying).",
+            "Contraindicated for those with vaginal discharge from Yin Deficiency Fire.",
+            "Contraindicated in any case of vomiting due to Fire.",
+            "Contraindicated for those with febrile disorders.",
+            "Use caution and slowly discontinue use if pus drains smoothly from sores.",
+            "Large amounts may cause convulsions and general paralysis."
+        ],
+        "incompatibilities": [
+            "Antagonizes Flos Inulae #{XuanFuHua} Xuan Fu Hua."
+        ],
+        "interactions": [
+            "This herb may have an inhibitory effect on liver microsomal cytochrome P-450. Concurrent use of this herb may lead to increased plasma concentration of other drugs such as testosterone, tolbutamide, nifedipine, bufuralol and diazapam."
+        ]
+    },
+    "combinations": {
+        "sets": [
+            {
+                "relatedHerbs": [
+                    "GaoBen"
+                ],
+                "useCases": [
+                    "Wind-Cold induced headaches, especially those at the vertex."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GeGen"
+                ],
+                "useCases": [
+                    "Wind-Cold trapped at the level of the muscles and interstices."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "XiXin"
+                ],
+                "useCases": [
+                    "Wind-Cold induced headaches, sinus headaches, orbital headaches and toothaches aggravated by cold air."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "JieGeng"
+                ],
+                "useCases": [
+                    "Ulcerated boils when pus has not been discharged."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ChuanXiong"
+                ],
+                "useCases": [
+                    "Headaches."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ChuanXiong",
+                    "JingJie",
+                    "ZiSuYe"
+                ],
+                "useCases": [
+                    "Wind-Cold headache."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ChuanXiong",
+                    "JuHua"
+                ],
+                "useCases": [
+                    "Wind-Heat headache."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GanCao"
+                ],
+                "useCases": [
+                    "Ulcer pain.",
+                    "Stomach ache."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "PuGongYing",
+                    "GuaLou",
+                    "ChuanBeiMu"
+                ],
+                "useCases": [
+                    "Breast abscess, boils and carbuncles and skin diseases."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "XiXin",
+                    "XinYi(Hua)",
+                    "CangErZi"
+                ],
+                "useCases": [
+                    "Nasal congestion."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangQin"
+                ],
+                "useCases": [
+                    "Wind-Heat headache."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ShiGao",
+                    "ShengMa"
+                ],
+                "useCases": [
+                    "Toothache due to Wind-Heat which is aggravated by Heat."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangBai",
+                    "CheQianZi",
+                    "KuShen"
+                ],
+                "useCases": [
+                    "Damp-Heat vaginal discharge."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "DangGui"
+                ],
+                "useCases": [
+                    "Vaginal infections."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "FangFeng",
+                    "QiangHuo"
+                ],
+                "useCases": []
+            },
+            {
+                "relatedHerbs": [
+                    "QiangHuo"
+                ],
+                "useCases": [
+                    "Wind-Cold Dampness causing fever, chills and headaches."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ChuanXiong",
+                    "JuHua",
+                    "FangFeng"
+                ],
+                "useCases": [
+                    "Headache (especially frontal) due to Wind."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GuaLou",
+                    "ZheBeiMu",
+                    "PuGongYing"
+                ],
+                "useCases": [
+                    "Acute mastitis."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "GuaLou",
+                    "LianQiao"
+                ],
+                "useCases": [
+                    "Sores and swellings."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "BaiZhu",
+                    "FuLing",
+                    "HaiPiaoXiao"
+                ],
+                "useCases": [
+                    "Cold-Damp leukorrhea."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "CangErZi",
+                    "XinYi(Hua)"
+                ],
+                "useCases": [
+                    "Headache due to nasal congestion with thick putrid discharge."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "CongBai",
+                    "DanDouChi",
+                    "ShengJiang"
+                ],
+                "useCases": [
+                    "Wind-Cold."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "JiangCan"
+                ],
+                "useCases": [
+                    "Frontal headache."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "JinYinHua",
+                    "DangGui"
+                ],
+                "useCases": [
+                    "Early-stage sores and carbuncles."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ShiGao",
+                    "PuGongYing",
+                    "HuangQin"
+                ],
+                "useCases": [
+                    "Sinusitis and rhinitis with turbid, yellow nasal discharge and nasal obstruction due to Heat."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "XiXin",
+                    "ZhiChuanWu"
+                ],
+                "useCases": [
+                    "Headache with excessive Cold."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ChuanXiong",
+                    "ShiGao",
+                    "JingJie",
+                    "FangFeng"
+                ],
+                "useCases": [
+                    "Headache with excessive Heat."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "QiangHuo",
+                    "GuiZhi",
+                    "ChuanXiong"
+                ],
+                "useCases": [
+                    "Muscle aches and pains due to Wind-Dampness."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "QinJiao",
+                    "JingJie",
+                    "XiXianCao"
+                ],
+                "useCases": [
+                    "Rashes and itching due to Wind-Dampness."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "JinYinHua",
+                    "ChuanShanJia",
+                    "TaoRen"
+                ],
+                "useCases": [
+                    "Dermatological disorders with abscesses and swelling."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "NiuBangZi",
+                    "JinYinHua",
+                    "ChuanShanJia",
+                    "ZaoJiaoCi"
+                ],
+                "useCases": [
+                    "Formation of pus without ulceration."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "DangShen",
+                    "HuangQi",
+                    "JinYinHua",
+                    "GanCao"
+                ],
+                "useCases": [
+                    "Formation of pus with ulceration."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "MuDanPi",
+                    "DongGuaZi(Ren)",
+                    "BaiJiangCao",
+                    "HongTeng",
+                    "DaHuang"
+                ],
+                "useCases": [
+                    "Acute appendicitis or Intestinal abscess."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "ChiShao",
+                    "HongHua",
+                    "PuGongYing",
+                    "ZiHuaDiDing",
+                    "YeJuHua",
+                    "JinYinHua"
+                ],
+                "useCases": [
+                    "Breast abscesses."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HaiPiaoXiao",
+                    "BaiZhu",
+                    "FuLing",
+                    "JiGuanHua"
+                ],
+                "useCases": [
+                    "White, turbid leukorrhea due to Cold and Dampness."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "HuangBai",
+                    "CheQianZi"
+                ],
+                "useCases": [
+                    "Yellow, turbid vaginal discharge due to Damp-Heat."
+                ]
+            },
+            {
+                "relatedHerbs": [
+                    "RouDouKou",
+                    "HeZi",
+                    "FuLing",
+                    "QianShi"
+                ],
+                "useCases": [
+                    "Chronic diarrhea due to Spleen Deficiency and Dampness Accumulation."
+                ]
+            }
+        ]
+    },
+    "notes": [
+        "If the sore or ulcer has not yet suppurated, this herb will help reduce the swelling. If pus has already formed, or the sore has ulcerated, it can help discharge the pus.",
+        "Used alone orally or topically, this herb is effective to relieve the pain of toothache.",
+        "With appropriate herbs, this herb can be used to treat vaginal discharge due to Damp-Heat.",
+        "This herb helps the female organs function well.",
+        "This herb has anti-bacterial, anti-fungal and analgesic properties.",
+        "Dry-fried Angelica Root Chao Bai Zhi is used for Cold-Damp discharge.",
+        "Charred Angelica Root Bai Zhi Tan stops bleeding, especially for menstrual spotting.",
+        "Bai Zhi, Rz. seu Rx. Notopterygii #{QiangHuo} Qiang Huo, Rz. Ligustici #{GaoBen} Gao Ben, and Hb. Asari #{XiXin} Xi Xin are all acrid, warm and dispel Wind-Cold, Wind-Dampness and Cold-Dampness and relieve pain. Bai Zhi is best for pain in the forehead, eyebrows, teeth and gums, reduces swelling, expels pus and stops itching and vaginal discharge. Qiang Huo expels Wind in the muscles and exterior. it is best for neck and shoulder pain. Qiang Huo and Gao Ben both enter the Du channel, but Qiang Huo moves upward while Gao Ben moves downward. Hb. Asari Xi Xin disperses pathogenic Wind-Cold-Dampness and is especially good for opening the orifices and relieving pain. it also transforms Cold thin mucus."
+    ]
+}

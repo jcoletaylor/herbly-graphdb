@@ -1,0 +1,121 @@
+{
+    "formula": "GuaLouGuiZhiTang",
+    "names": {
+        "pinyin": "gua lou gui zhi tang",
+        "hanzi": "栝楼桂枝汤",
+        "english": "trichosanthis and cinnamon twig decoction",
+        "commonEnglish": "Trichosanthis and Cinnamon Twig Decoction",
+        "aka": [
+            ""
+        ]
+    },
+    "herbs": [
+        {
+            "herb": "TianHuaFen",
+            "dosage": "6g",
+            "actions": [
+                "Drains Lung Heat, transforms Phlegm, moistens Lung Dryness and generates Fluids"
+            ]
+        },
+        {
+            "herb": "GuiZhi",
+            "dosage": "9g",
+            "actions": [
+                "Releases the Exterior, assists Yang, adjusts the Ying and Wei, releases the muscle layer and warms and facilitates the flow of Qi through the channels and collaterals and Blood through the vessels."
+            ]
+        },
+        {
+            "herb": "ShaoYao",
+            "dosage": "9g",
+            "actions": [
+                "Nourishes the Blood, astringes Yin and adjusts the Ying and Wei.",
+                "With Gan Cao, for muscle spasms, pain and numbness due to Blood Deficiency.",
+                "With Gui Zhi, harmonizes the Ying and Wei in Tai Yang Zhong Feng."
+            ]
+        },
+        {
+            "herb": "GanCao",
+            "dosage": "6g",
+            "actions": [
+                "Moderates spasms, alleviates pain, moderates and harmonizes the harsh properties of other herbs and guides the herbs to all twelve channels."
+            ]
+        },
+        {
+            "herb": "ShengJian",
+            "dosage": "9g",
+            "actions": [
+                "Releases the Exterior, induces perspiration, disperses Cold, adjusts the Ying and Wei and normalizes the flow of Qi at the center.",
+                "With Da Zao, for External Wind-Cold.",
+                "With Gui Zhi and Da Zao, harmonizes the Ying and Wei to drive out pathogens."
+            ]
+        },
+        {
+            "herb": "DaZao",
+            "dosage": "36g",
+            "actions": [
+                "Nourishes the Blood, calms the Spirit and moderates and harmonizes the harsh properties of other herbs.",
+                "With Sheng Jiang, adjusts the Ying and Wei for treatment of Tai Yang Zhong Feng."
+            ]
+        }
+    ],
+    "actions": [
+        "Releases Wind-Cold from the muscle layer",
+        "Relaxes and moistens the sinews",
+        "Regulates the Ying and Wei"
+    ],
+    "syndromes": [
+        "Wind-Cold Attacking the Exterior with Deficiency of Ying and Wei with neck and shoulder stiffness and pain",
+        "Tai Yang Zhong Feng with neck and shoulder stiffness and pain"
+    ],
+    "manifestations": {
+        "symptoms": [
+            "Neck pain and stiffness",
+            "Inhibited side to side turning",
+            "Fever and chills unrelieved by sweating",
+            "Decreased body resistance",
+            "Spontaneous perspiration",
+            "Rhinitis",
+            "Maybe body aches",
+            "Dry heaves",
+            "Headache",
+            "Muscles of the neck and back are very stiff and rigid",
+            "Aversion to Wind",
+            "Nasal congestion",
+            "No thirst"
+        ],
+        "tongue": "Normal",
+        "tongueCoat": "White and moist",
+        "pulse": "Floating and moderate or floating and weak or slow"
+    },
+    "conditions": [
+        {
+            "condition": "NeckPain",
+            "name": "Stiff neck"
+        },
+        {
+            "name": ""
+        }
+    ],
+    "contra": {
+        "contraindications": [
+            ""
+        ],
+        "interactions": [
+            ""
+        ]
+    },
+    "notes": [
+        ""
+    ],
+    "modifications": [
+        {
+            "purpose": "a stiff neck",
+            "modifications": [
+                {
+                    "herb": "GeGen",
+                    "modification": "+ Rx. Puerariae"
+                }
+            ]
+        }
+    ]
+}
