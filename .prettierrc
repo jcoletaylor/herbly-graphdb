@@ -1,12 +1,9 @@
 {
-  "singleQuote": true,
-  "trailingComma": "all",
-  "overrides": [
-    {
-      "files": "*.ts",
-      "options": {
-        "parser": "typescript"
-      }
-    }
-  ]
+    "useTabs": false,
+    "printWidth": 100,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "parser": "babel-ts",
+    "semi": false
 }

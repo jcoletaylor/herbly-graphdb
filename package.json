@@ -2,6 +2,7 @@
   "name": "herbly-graphdb",
   "version": "0.1.0",
   "description": "Herbly GraphDB - ArangoDB",
+  "main": "index.ts",
   "engines": {
     "node": ">= 14.16 <15"
   },
@@ -15,13 +16,19 @@
     "graphdb"
   ],
   "devDependencies": {
+    "@types/fs-extra": "^9.0.12",
     "@types/jest": "~26.0.23",
+    "@types/klaw": "^3.0.2",
     "@types/node": "~14.14.45",
     "@typescript-eslint/eslint-plugin": "~4.28.2",
     "@typescript-eslint/parser": "~4.28.2",
     "eslint": "~7.30.0",
     "eslint-config-prettier": "~8.3.0",
+    "eslint-plugin-import": "^2.24.2",
     "eslint-plugin-jest": "~24.3.6",
+    "eslint-plugin-jsdoc": "^36.0.8",
+    "eslint-plugin-no-null": "^1.0.2",
+    "eslint-plugin-prefer-arrow": "^1.2.3",
     "jest": "~27.0.6",
     "prettier": "~2.3.2",
     "rimraf": "~3.0.2",
@@ -35,7 +42,7 @@
     "prebuild": "npm run lint",
     "build": "tsc -p tsconfig.release.json",
     "build:watch": "tsc -w -p tsconfig.release.json",
-    "lint": "eslint . --ext .ts,.tsx",
+    "lint": "eslint -c .eslintrc.js --ext .ts --fix ./{src,__tests__}/**/*.ts && prettier -w .",
     "test": "jest --coverage",
     "test:watch": "jest --watch"
   },
@@ -44,6 +51,8 @@
   "dependencies": {
     "arangojs": "^7.5.0",
     "dotenv": "^10.0.0",
+    "fs-extra": "^10.0.0",
+    "klaw": "^3.0.0",
     "tslib": "~2.3.0"
   },
   "volta": {
