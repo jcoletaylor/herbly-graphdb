@@ -1,3 +1,5 @@
+export const GRAPH_NAME = 'herbly'
+
 export const VERTEX_COLLECTIONS: string[] = [
     'conditions',
     'formula_actions',
@@ -39,5 +41,6 @@ export const VERTEX_COLLECTIONS: string[] = [
 export const EDGE_COLLECTIONS: string[] = [
     'contains',
     'has_many',
-    'belongs_to'
+    'belongs_to',
+    'has_category'
 ]

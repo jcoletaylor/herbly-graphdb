@@ -44,20 +44,20 @@ export default class BaseLoader {
 
     private async initialize(): Promise<void> {
         const existingCollections: CollectionMetadata[] = await arango.listCollections()
-        const existingVertexCollections: string[] = existingCollections
-            .filter((c) => c.type === CollectionType.DOCUMENT_COLLECTION)
-            .map((c) => c.name)
         const existingEdgeCollections: string[] = existingCollections
             .filter((c) => c.type === CollectionType.EDGE_COLLECTION)
             .map((c) => c.name)
-        for (const collection of VERTEX_COLLECTIONS) {
-            if (!existingVertexCollections.includes(collection)) {
-                await arango.createCollection(collection)
+        for (const name of EDGE_COLLECTIONS) {
+            if (!existingEdgeCollections.includes(name)) {
+                await arango.createEdgeCollection(name)
             }
         }
-        for (const collection of EDGE_COLLECTIONS) {
-            if (!existingEdgeCollections.includes(collection)) {
-                await arango.createEdgeCollection(collection)
+        const existingVertexCollections: string[] = existingCollections
+            .filter((c) => c.type === CollectionType.DOCUMENT_COLLECTION)
+            .map((c) => c.name)
+        for (const name of VERTEX_COLLECTIONS) {
+            if (!existingVertexCollections.includes(name)) {
+                await arango.createCollection(name)
             }
         }
     }
